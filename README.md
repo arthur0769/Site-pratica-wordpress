@@ -25,4 +25,4 @@ Ideia de upgrade de site aleatório. Desenvolvido no wordpress com elementor, co
 ![image](https://user-images.githubusercontent.com/61984909/182977390-4db9422d-3069-4dca-ad54-f0227e2391f1.png)
 ![image](https://user-images.githubusercontent.com/61984909/182977144-ebe2d4bd-14df-4797-b9e5-aedcb7c550e3.png)
 
-arquivo grande, githhub não permite upload. Segue o link do arquivo wordpress para importação: https://drive.google.com/file/d/1b1wfNsaCNecZ3dyh-2GCSKWMFvk2K0bD/view?usp=sharing
+arquivo grande, github não permite upload. Segue o link do arquivo wordpress para importação: https://drive.google.com/file/d/1b1wfNsaCNecZ3dyh-2GCSKWMFvk2K0bD/view?usp=sharing
